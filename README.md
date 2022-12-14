@@ -9,4 +9,4 @@ User Story: As an employee with a busy schedule I want to add important events t
 Usage: The planner displays work hours from 9AM - 5PM. At the top of the planner the current day of the week and date are displayed. Each block of time is color coded to indicate the time past (grey), present time (dark red), and future (dark green). Each time block allows you to input information and save it to local storage.
 
 Mock-Up:
-![Website Gif](assets\images\05-third-party-apis-homework-demo.gif)
+![Alt text](assets/images/05-third-party-apis-homework-demo.gif)
