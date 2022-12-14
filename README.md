@@ -1,33 +1,11 @@
-# Daily-Scheduler
+Work Day Scheduler
 
-## Your Task
+URL: https://courtneyajensen.github.io/Daily-Scheduler/
 
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+Description: This app is a simple way to organize your daily work activities and commitments. The app runs in the browser and uses HTML and CSS as well as jQuery.
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+User Story: As an employee with a busy schedule I want to add important events to a daily planner, so that I can manage my time effectively.
 
-## User Story
+Usage: The planner displays work hours from 9AM - 5PM. At the top of the planner the current day of the week and date are displayed. Each block of time is color coded to indicate the time past (grey), present time (dark red), and future (dark green). Each time block allows you to input information and save it to local storage.
 
-```md
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
-
-## Acceptance Criteria
-
-```md
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
+Mock-Up:
